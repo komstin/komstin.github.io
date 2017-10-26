@@ -2,7 +2,6 @@
 layout: post
 title: "Разъяснение"
 date: 2017-10-24
-<link rel="canonical" href="https://rifco.ru">
 ---
 
 Мотивация завести блог в Гитхабе сводится к следующему.
