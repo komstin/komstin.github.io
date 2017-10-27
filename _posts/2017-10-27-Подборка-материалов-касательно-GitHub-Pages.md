@@ -3,6 +3,7 @@ layout: post
 title: Подборка материалов касательно GitHub Pages
 date: 2017-10-27
 category: github
+tags: [github, github-pages, Jekyll]
 ---
 
 1. [GitHub Pages](https://pages.github.com/)
