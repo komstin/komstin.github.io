@@ -11,3 +11,6 @@ category: github
 4. [Категории и теги](http://www.minddust.com/post/tags-and-categories-on-github-pages/) для Jekyll < 3
 5. Категории на основе [Jekyll коллекций](http://www.minddust.com/post/alternative-tags-and-categories-on-github-pages/)
 6. [Исходники](https://github.com/minddust/minddust.github.io). Хороший пример.
+
+TODO, TORead:
+- Paginator
