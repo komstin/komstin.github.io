@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Разъяснение
+title: Подборка материалов касательно GitHub Pages
 date: 2017-10-27
 category: github
 ---
