@@ -6,6 +6,7 @@ category: github
 tags: [github, github-pages, Jekyll]
 ---
 
+0. [GitHub Help](https://help.github.com/)
 1. [GitHub Pages](https://pages.github.com/)
 2. [Help](https://help.github.com/pages/)
 3. [Dependency versions](https://pages.github.com/versions/)
