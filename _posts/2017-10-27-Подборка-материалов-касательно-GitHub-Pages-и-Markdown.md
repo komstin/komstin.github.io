@@ -13,7 +13,7 @@ tags: [github, github-pages, Jekyll]
 5. Категории на основе [Jekyll коллекций](http://www.minddust.com/post/alternative-tags-and-categories-on-github-pages/)
 6. [Исходники](https://github.com/minddust/minddust.github.io). Хороший пример.
 7. [GitHub Pages examples](https://github.com/collections/github-pages-examples) Fine examples of projects using GitHub Pages.
-8. (https://github.com/github/government.github.com) Прекрасный образец.
+8. https://github.com/github/government.github.com Прекрасный образец.
 
 TODO, TORead:
 - Paginator
