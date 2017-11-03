@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Подборка материалов касательно GitHub Pages
+title: Подборка материалов касательно GitHub Pages и Markdown
 date: 2017-10-27
 category: github
 tags: [github, github-pages, Jekyll]
@@ -12,6 +12,7 @@ tags: [github, github-pages, Jekyll]
 4. [Категории и теги](http://www.minddust.com/post/tags-and-categories-on-github-pages/) для Jekyll < 3
 5. Категории на основе [Jekyll коллекций](http://www.minddust.com/post/alternative-tags-and-categories-on-github-pages/)
 6. [Исходники](https://github.com/minddust/minddust.github.io). Хороший пример.
+7. [GitHub Pages examples](https://github.com/collections/github-pages-examples) Fine examples of projects using GitHub Pages.
 
 TODO, TORead:
 - Paginator
