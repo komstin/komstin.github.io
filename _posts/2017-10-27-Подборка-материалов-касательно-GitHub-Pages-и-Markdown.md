@@ -17,6 +17,7 @@ tags: [github, github-pages, Jekyll]
 1. https://github.com/github/government.github.com Прекрасный образец.
 1. [Publish Your Project Documentation with GitHub Pages](https://github.com/blog/2233-publish-your-project-documentation-with-github-pages)
 1. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
+1. [GhostBSD is a user-friendly desktop operating system based on FreeBSD](https://github.com/blog/2228-simpler-github-pages-publishing)
 
 TODO, TORead:
 - Paginator
