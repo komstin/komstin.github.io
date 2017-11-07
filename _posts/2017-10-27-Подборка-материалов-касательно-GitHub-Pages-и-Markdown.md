@@ -15,6 +15,8 @@ tags: [github, github-pages, Jekyll]
 1. [Исходники](https://github.com/minddust/minddust.github.io). Хороший пример.
 1. [GitHub Pages examples](https://github.com/collections/github-pages-examples) Fine examples of projects using GitHub Pages.
 1. https://github.com/github/government.github.com Прекрасный образец.
+1. [Publish Your Project Documentation with GitHub Pages](https://github.com/blog/2233-publish-your-project-documentation-with-github-pages)
+1. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
 TODO, TORead:
 - Paginator
