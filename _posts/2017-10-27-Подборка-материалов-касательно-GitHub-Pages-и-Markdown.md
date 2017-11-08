@@ -19,6 +19,8 @@ tags: [github, github-pages, Jekyll]
 1. [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 1. [Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing)
 1. [Easy websites with GitHub Pages](http://kbroman.org/simple_site/)
+1. [Websites Hosted by GitHub Pages](https://www.webhostinghero.com/websites-hosted-by-github-pages/)
+1. [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3)
 
 TODO, TORead:
 - Paginator
