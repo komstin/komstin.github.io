@@ -8,7 +8,6 @@ tags: [github, github-pages, Jekyll]
 
 1. [GitHub Help](https://help.github.com/)
 1. [GitHub Pages](https://pages.github.com/)
-1. [Версии](https://pages.github.com/versions/)
 1. [Help](https://help.github.com/pages/)
 1. [Dependency versions](https://pages.github.com/versions/)
 1. [Категории и теги](http://www.minddust.com/post/tags-and-categories-on-github-pages/) для Jekyll < 3
